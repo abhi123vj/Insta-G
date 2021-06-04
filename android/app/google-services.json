@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490808776138",
+    "firebase_url": "https://tiktac-5d55d.firebaseio.com",
+    "project_id": "tiktac-5d55d",
+    "storage_bucket": "tiktac-5d55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490808776138:android:61fa53009625bd69faeb33",
+        "android_client_info": {
+          "package_name": "com.example.g_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490808776138-sb832cksak13mptubf7m93qq67le251h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWx-VVyKI5LALIfiZuTxgCsCVy_EB9Mws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490808776138-sb832cksak13mptubf7m93qq67le251h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
